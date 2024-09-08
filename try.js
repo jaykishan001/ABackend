@@ -2,4 +2,5 @@ const hello = () = {
   console.log("Its me jaykishan");
 
 }	
-hello()
+hello();
+console.log("lol");
